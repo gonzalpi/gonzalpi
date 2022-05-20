@@ -2,6 +2,8 @@
 
 My name is Luis Alejandro Rodríguez González, known online as Álex Rody. I am a computer science student at Tecnológico de Monterrey looking for jobs and internships.
 
+### Experience
+
 - ⚙️ **Production Engineering Fellow** at <img src="https://static.xx.fbcdn.net/rsrc.php/yi/r/gbO80SSOuBU.ico" style="height: 1em;"> Meta and <img src="https://fellowship.mlh.io/favicon.ico" style="height: 1em;"> Major League Hacking (Summer 2022)
 
 - ☁️ **Full-Stack Web Developer** for <img src="https://clubdelabuelo.com.mx/wp-content/uploads/2019/12/cropped-iconologo-32x32.png" style="height: 1em;"> Club del Abuelo care home, and SWE course at <img src="https://tec.mx/sites/default/files/favicon.ico" style="height: 1em;"> Tecnológico de Monterrey developing [Ilikia](https://github.com/alexrody/ilikia), a geriatric assessments web application in React, Express and MySQL (March - May 2022)
