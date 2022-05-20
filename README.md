@@ -1,5 +1,8 @@
 # Who is *Álex Rody*?
 
+[![hey@alexrody.com](https://shields.io/badge/%F0%9F%93%AC%20hey@alexrody.com-beige?style=for-the-badge)](mailto:hey@alexrody.com)
+[![Let's Connect](https://shields.io/badge/let's%20connect!-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/alexrody/)
+
 My name is Luis Alejandro Rodríguez González, known online as Álex Rody. I am a computer science student at Tecnológico de Monterrey looking for jobs and internships.
 
 ### Experience
@@ -24,8 +27,3 @@ My name is Luis Alejandro Rodríguez González, known online as Álex Rody. I am
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexrody&show_icons=true&theme=dark&count_private=true)
-
-### Contact Information
-
-[![hey@alexrody.com](https://shields.io/badge/%F0%9F%93%AC%20hey@alexrody.com-beige?style=for-the-badge)](mailto:hey@alexrody.com)
-[![Let's Connect](https://shields.io/badge/let's%20connect!-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/alexrody/)
