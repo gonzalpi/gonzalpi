@@ -13,7 +13,7 @@ My name is Luis Alejandro Rodríguez González, known online as Álex Rody. I am
 
 - 💻 **Artificial Intelligence Research Assistant** at <img src="https://tec.mx/sites/default/files/favicon.ico" style="height: 1em;"> Tecnológico de Monterrey, <img src="https://www.jalisco.gob.mx/sites/all/themes/custom/jwbootstrap3/favicon.ico" style="height: 1em;"> Jalisco State Government, and <img src="https://iadb.org/themes/custom/iadb/favicon.ico" style="height: 1em;"> Inter-American Development Bank's fAIr LAC ecosystem's [school dropout program](https://fairlac.iadb.org/en/piloto/abandono-escolar-jalisco) developing text mining code, implementing NLP algorithms and documenting analyses (September 2021 - March 2022)
 
-### Technologies
+### Main Technologies
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
