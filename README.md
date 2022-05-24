@@ -7,7 +7,7 @@ My name is Luis Alejandro Rodríguez González, known online as Álex Rody. I am
 
 ### Experience
 
-- ⚙️ **Production Engineering Fellow** at ![Meta](logos/meta.png) Meta and ![Major League Hacking](logos/mlh.png) Major League Hacking (Summer 2022)
+- ⚙️ **Production Engineering Fellow** at ![Major League Hacking](logos/mlh.png) Major League Hacking, powered by ![Meta](logos/meta.png) Meta (Summer 2022)
 
 - ☁️ **Full-Stack Web Developer** for ![Club del Abuelo](logos/clubdelabuelo.png) Club del Abuelo care home, and SWE course at ![Tecnológico de Monterrey](logos/tec.png) Tecnológico de Monterrey developing [Ilikia](https://github.com/alexrody/ilikia), a geriatric assessments web application in React, Express and MySQL (March - May 2022)
 
