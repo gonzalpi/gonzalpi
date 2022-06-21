@@ -3,7 +3,7 @@
 [![Let's Connect](https://shields.io/badge/let's%20connect!-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/alexrody/)
 [![hey@alexrody.com](https://shields.io/badge/%F0%9F%93%AC%20hey@alexrody.com-beige?style=for-the-badge)](mailto:hey@alexrody.com)
 
-My name is Luis Alejandro Rodríguez González, known online as Álex Rody. I am a computer science student at Tecnológico de Monterrey looking for jobs and internships.
+My name is Alejandro Rodríguez González, known online as Álex Rody. I am a computer science student at Tecnológico de Monterrey looking for jobs and internships.
 
 ### Experience
 
