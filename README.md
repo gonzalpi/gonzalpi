@@ -1,15 +1,15 @@
-# Who is *Álex Rody*?
+# Who am I?
 
-[![Let's Connect](https://shields.io/badge/let's%20connect!-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/alexrody/)
-[![hey@alexrody.com](https://shields.io/badge/%F0%9F%93%AC%20hey@alexrody.com-beige?style=for-the-badge)](mailto:hey@alexrody.com)
+[![Let's Connect](https://shields.io/badge/let's%20connect!-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gonzalpi/)
+[![hey@alexrody.com](https://shields.io/badge/%F0%9F%93%AC%20alex@gonzalpi.com-beige?style=for-the-badge)](mailto:alex@gonzalpi.com)
 
-My name is Alejandro Rodríguez González, known online as Álex Rody. I am a computer science student at Tecnológico de Monterrey looking for jobs and internships.
+My name is Alejandro Rodríguez González. I am a computer science student at Tecnológico de Monterrey looking for jobs and internships.
 
 ### Experience
 
 - ⚙️ **Production Engineering Fellow** at ![Major League Hacking](logos/mlh.png) Major League Hacking, powered by ![Meta](logos/meta.png) Meta (Summer 2022)
 
-- ☁️ **Full-Stack Web Developer** for ![Club del Abuelo](logos/clubdelabuelo.png) Club del Abuelo care home, and SWE course at ![Tecnológico de Monterrey](logos/tec.png) Tecnológico de Monterrey developing [Ilikia](https://github.com/alexrody/ilikia), a geriatric assessments web application in React, Express and MySQL (March - May 2022)
+- ☁️ **Full-Stack Web Developer** for ![Club del Abuelo](logos/clubdelabuelo.png) Club del Abuelo care home, and SWE course at ![Tecnológico de Monterrey](logos/tec.png) Tecnológico de Monterrey developing [Ilikia](https://github.com/gonzalpi/ilikia), a geriatric assessments web application in React, Express and MySQL (March - May 2022)
 
 - 💻 **Artificial Intelligence Research Assistant** at ![Tecnológico de Monterrey](logos/tec.png) Tecnológico de Monterrey, ![Gobierno de Jalisco](logos/jalisco.png) Jalisco State Government, and ![IADB fAIr LAC](logos/iadb.PNG) Inter-American Development Bank's fAIr LAC ecosystem's [school dropout program](https://fairlac.iadb.org/en/piloto/abandono-escolar-jalisco) developing text mining code, implementing NLP algorithms and documenting analyses (September 2021 - March 2022)
 
@@ -28,4 +28,4 @@ My name is Alejandro Rodríguez González, known online as Álex Rody. I am a co
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexrody&show_icons=true&theme=dark&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gonzalpi&show_icons=true&theme=dark&count_private=true)
