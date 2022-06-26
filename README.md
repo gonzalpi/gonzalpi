@@ -11,7 +11,7 @@ My name is Alejandro Rodríguez González. I am a computer science student at Te
 
 - ☁️ **Full-Stack Web Developer** for ![Club del Abuelo](logos/clubdelabuelo.png) Club del Abuelo care home, and SWE course at ![Tecnológico de Monterrey](logos/tec.png) Tecnológico de Monterrey developing [Ilikia](https://github.com/gonzalpi/ilikia), a geriatric assessments web application in React, Express and MySQL (March - May 2022)
 
-- 💻 **Artificial Intelligence Research Assistant** at ![Tecnológico de Monterrey](logos/tec.png) Tecnológico de Monterrey, ![Gobierno de Jalisco](logos/jalisco.png) Jalisco State Government, and ![IADB fAIr LAC](logos/iadb.PNG) Inter-American Development Bank's fAIr LAC ecosystem's [school dropout program](https://fairlac.iadb.org/en/piloto/abandono-escolar-jalisco) developing text mining code, implementing NLP algorithms and documenting analyses (September 2021 - June 2022)
+- 💻 **Undergraduate Research Assistant** at ![Tecnológico de Monterrey](logos/tec.png) Tecnológico de Monterrey, ![Gobierno de Jalisco](logos/jalisco.png) Jalisco State Government, and ![IADB fAIr LAC](logos/iadb.PNG) Inter-American Development Bank's fAIr LAC ecosystem's [school dropout program](https://fairlac.iadb.org/en/piloto/abandono-escolar-jalisco) developing text mining code, implementing Artificial Intelligence (NLP) algorithms and documenting analyses (September 2021 - June 2022)
 
 ### Main Technologies
 
