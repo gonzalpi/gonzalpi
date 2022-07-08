@@ -7,7 +7,7 @@ My name is Alejandro. I am a computer science student at Tecnológico de Monterr
 
 ### Experience
 
-- ⚙️ **Production Engineering Fellow** at ![Major League Hacking](logos/mlh.png) Major League Hacking, powered by ![Meta](logos/meta.png) Meta (Summer 2022)
+- ⚙️ **Production Engineering Fellow** at ![Major League Hacking](logos/mlh.png) Major League Hacking, powered by ![Meta](logos/meta.png) Meta developing a portfolio website following SRE & DevOps best practices (Summer 2022)
 
 - ☁️ **Full-Stack Web Developer** for ![Club del Abuelo](logos/clubdelabuelo.png) Club del Abuelo care home, and SWE course at ![Tecnológico de Monterrey](logos/tec.png) Tecnológico de Monterrey developing [Ilikia](https://github.com/gonzalpi/ilikia), a geriatric assessments web application in React, Express and MySQL (March - May 2022)
 
