@@ -3,7 +3,7 @@
 [![Let's Connect](https://shields.io/badge/let's%20connect!-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gonzalpi/)
 [![hey@alexrody.com](https://shields.io/badge/%F0%9F%93%AC%20alex@gonzalpi.com-beige?style=for-the-badge)](mailto:alex@gonzalpi.com)
 
-My name is Alex. I am a computer science student at Tecnológico de Monterrey looking for jobs and internships.
+My name is Álex. I am a computer science student at Tecnológico de Monterrey looking for jobs and internships.
 
 ### Experience
 
