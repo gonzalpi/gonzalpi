@@ -7,7 +7,7 @@ My name is Álex. I am a computer science student at Tecnológico de Monterrey.
 
 ### Experience
 
-- 💾 **Hardware Specialist** at ![Intel Corporation](logos/intel.png) Intel Corporation (September 2022 - Present)
+- 💾 **Software Engineering Intern** at ![Intel Corporation](logos/intel.png) Intel Corporation (September 2022 - Present)
 
 - ⚙️ **Production Engineering Fellow** at ![Major League Hacking](logos/mlh.png) Major League Hacking, powered by ![Meta](logos/meta.png) Meta developing a portfolio website following SRE & DevOps best practices (May - August 2022)
 
