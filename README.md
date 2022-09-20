@@ -7,6 +7,8 @@ My name is Álex. I am a computer science student at Tecnológico de Monterrey l
 
 ### Experience
 
+- 💾 **Hardware Specialist** at ![Intel Corporation](logos/intel.png) Intel Corporation (September 2022 - Present)
+
 - ⚙️ **Production Engineering Fellow** at ![Major League Hacking](logos/mlh.png) Major League Hacking, powered by ![Meta](logos/meta.png) Meta developing a portfolio website following SRE & DevOps best practices (May - August 2022)
 
 - ☁️ **Full-Stack Web Developer** for ![Club del Abuelo](logos/clubdelabuelo.png) Club del Abuelo care home, and SWE course at ![Tecnológico de Monterrey](logos/tec.png) Tecnológico de Monterrey developing [Ilikia](https://github.com/gonzalpi/ilikia), a geriatric assessments web application in React, Express and MySQL (March - May 2022)
