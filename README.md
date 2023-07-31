@@ -7,9 +7,9 @@ My name is Han. I am a computer science student at Tecnológico de Monterrey.
 
 ### Experience
 
-- 💻 **Software Engineering Intern** at ![Microsoft Corporation](logos/msft.png) Microsoft Corporation working on Windows experiences (June 2023 - Present)
+- 💻 **Software Engineering Intern** at ![Microsoft](logos/msft.png) Microsoft working on Windows experiences (June 2023 - Present)
 
-- 💾 **Software Engineering Intern** at ![Intel Corporation](logos/intel.png) Intel Corporation building Linux and DevOps tools (September 2022 - May 2023)
+- 💾 **Software Engineering Intern** at ![Intel](logos/intel.png) Intel building Linux and DevOps tools (September 2022 - May 2023)
 
 - ⚙️ **Production Engineering Fellow** at ![Major League Hacking](logos/mlh.png) Major League Hacking, powered by ![Meta](logos/meta.png) Meta developing a portfolio website following SRE & DevOps best practices (May - August 2022)
 
