@@ -2,6 +2,7 @@
 
 [![Let's Connect](https://shields.io/badge/let's%20connect!-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gonzalpi/)
 [![han@gonzalpi.com](https://shields.io/badge/%F0%9F%93%AC%20han@gonzalpi.com-beige?style=for-the-badge)](mailto:han@gonzalpi.com)
+[![My Résumé](https://shields.io/badge/%F0%9F%93%84%20my%20r%C3%A9sum%C3%A9-gray?&style=for-the-badge)](https://gonzalpi.com/resume.pdf)
 
 My name is Han. I am a computer science student at Tecnológico de Monterrey.
 
