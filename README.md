@@ -8,7 +8,11 @@ My name is Han. I am a computer science student at Tecnológico de Monterrey.
 
 ### Experience
 
-- 💻 **Software Engineering Intern** at ![Microsoft](logos/msft.png) Microsoft working on Windows experiences (June 2023 - Present)
+- 🛰️ **Junior Software Engineer** at ![Easytrack (Numaris)](logos/easytrack.png) Easytrack (Numaris) designing architectures for big data applications in AWS (September 2023 - Present)
+
+- 📣 **Software Engineering Fellow** at ![Major League Hacking](logos/mlh.png) Major League Hacking, powered by ![Meta](logos/meta.png) Meta contributing to the [Seamless Communication library](https://github.com/facebookresearch/seamless_communication) by enabling time-stamped speech-to-text transcription (September 2023 - Present)
+
+- 💻 **Software Engineering Intern** at ![Microsoft](logos/msft.png) Microsoft working on Windows experiences (June 2023 - September 2023)
 
 - 💾 **Software Engineering Intern** at ![Intel](logos/intel.png) Intel building Linux and DevOps tools (September 2022 - May 2023)
 
