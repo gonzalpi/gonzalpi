@@ -5,7 +5,9 @@
 
 My name is Han. I study computer science at ![Tec de Monterrey](logos/tec.png) Tec de Monterrey.
 
-Software Enginering Intern building Windows 11 at ![Microsoft](logos/msft.png) Microsoft, improving DevOps tools at ![Intel](logos/intel.png) Intel, and designing cloud architectures at ![Easytrack](logos/easytrack.png) Easytrack.
+## Experience
+
+Software Engineering Intern building Windows 11 at ![Microsoft](logos/msft.png) Microsoft, improving DevOps tools at ![Intel](logos/intel.png) Intel, and designing cloud architectures at ![Easytrack](logos/easytrack.png) Easytrack.
 
 Two-time ![Major League Hacking](logos/mlh.png) Major League Hacking Fellow learning production engineering and contributing to ![Meta](logos/meta.png) Meta's [Seamless Communication library](https://github.com/facebookresearch/seamless_communication).
 
