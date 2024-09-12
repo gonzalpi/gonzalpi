@@ -7,7 +7,7 @@ My name is Han. I'm a software engineer from 9 to 5 and an amateur pianist the r
 
 ## Experience
 
-Software Engineer working on Windows AI features at ![Microsoft](logos/msft.png) Microsoft.
+Software Engineer working on AI features at ![Microsoft](logos/msft.png) Microsoft.
 
 Co-founder of [![Guadalahacks](logos/guadalahacks.png) Guadalahacks](https://guadalahacks.com), the largest student hackathon in western Mexico.
 
