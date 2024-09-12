@@ -3,9 +3,13 @@
 [![Let's Connect](https://shields.io/badge/let's%20connect!-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gonzalpi/)
 [![han@gonzalpi.com](https://shields.io/badge/%F0%9F%93%AC%20han@gonzalpi.com-beige?style=for-the-badge)](mailto:han@gonzalpi.com)
 
-My name is Han. I study computer science at ![Tec de Monterrey](logos/tec.png) Tec de Monterrey.
+My name is Han. I'm a software engineer from 9 to 5 and an amateur pianist the rest of the time.
 
 ## Experience
+
+Software Engineer working on Windows AI features at ![Microsoft](logos/msft.png) Microsoft.
+
+Co-founder of [![Guadalahacks](logos/guadalahacks.png) Guadalahacks](https://guadalahacks.com), the largest student hackathon in western Mexico.
 
 Software Engineering Intern building Windows 11 at ![Microsoft](logos/msft.png) Microsoft, improving DevOps tools at ![Intel](logos/intel.png) Intel, and designing cloud architectures at ![Easytrack](logos/easytrack.png) Easytrack.
 
