@@ -9,7 +9,7 @@ My name is Han. I'm a software engineer from 9 to 5 and an amateur pianist the r
 
 Software Engineer working on Windows AI features at ![Microsoft](logos/msft.png) Microsoft.
 
-Co-founder of [![Guadalahacks](logos/guadalahacks.png) Guadalahacks](https://guadalahacks.com), the largest student hackathon in western Mexico.
+Co-founder of <a href="https://guadalahacks.com" target="_blank">![Guadalahacks](logos/guadalahacks.png) Guadalahacks</a>, the largest student hackathon in western Mexico.
 
 Software Engineer Intern building Windows 11 at ![Microsoft](logos/msft.png) Microsoft, improving DevOps tools at ![Intel](logos/intel.png) Intel, and designing cloud architectures at ![Easytrack](logos/easytrack.png) Easytrack.
 
