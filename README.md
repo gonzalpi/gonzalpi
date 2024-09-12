@@ -11,7 +11,7 @@ Software Engineer working on Windows AI features at ![Microsoft](logos/msft.png)
 
 Co-founder of [![Guadalahacks](logos/guadalahacks.png) Guadalahacks](https://guadalahacks.com), the largest student hackathon in western Mexico.
 
-Software Engineering Intern building Windows 11 at ![Microsoft](logos/msft.png) Microsoft, improving DevOps tools at ![Intel](logos/intel.png) Intel, and designing cloud architectures at ![Easytrack](logos/easytrack.png) Easytrack.
+Software Engineer Intern building Windows 11 at ![Microsoft](logos/msft.png) Microsoft, improving DevOps tools at ![Intel](logos/intel.png) Intel, and designing cloud architectures at ![Easytrack](logos/easytrack.png) Easytrack.
 
 Two-time ![Major League Hacking](logos/mlh.png) Major League Hacking Fellow learning production engineering and contributing to ![Meta](logos/meta.png) Meta's [Seamless Communication library](https://github.com/facebookresearch/seamless_communication).
 
