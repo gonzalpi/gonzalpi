@@ -3,7 +3,7 @@
 [![Let's Connect](https://shields.io/badge/let's%20connect!-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gonzalpi/)
 [![han@gonzalpi.com](https://shields.io/badge/%F0%9F%93%AC%20han@gonzalpi.com-beige?style=for-the-badge)](mailto:han@gonzalpi.com)
 
-My name is Han. I'm a software engineer from 9 to 5 and an amateur pianist the rest of the time.
+My name is Han. I'm a software engineer from 9 to 5 and an amateur pianist in the evenings.
 
 ## Experience
 
